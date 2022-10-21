@@ -1,0 +1,2 @@
+{"result":[{"TYPE":"E","MESSAGE":"Не заполнен обязательный атрибут \"Инвентарный номер\"","ROW":1}],"isSuccessful":true,"message":"OK","success":true,"error":null,"status":200}
+Не заполнен обязательный атрибут "Инвентарный номер"

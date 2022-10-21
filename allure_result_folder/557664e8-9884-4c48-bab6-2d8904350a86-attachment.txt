@@ -1,0 +1,2 @@
+{"result":[{"TYPE":"S","MESSAGE":"Запись изменена","ROW":1}],"isSuccessful":true,"message":"OK","success":true,"error":null,"status":200}
+Запись изменена
