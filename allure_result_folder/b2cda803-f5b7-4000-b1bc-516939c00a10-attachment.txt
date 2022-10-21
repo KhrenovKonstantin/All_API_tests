@@ -1,1 +1,0 @@
-{"result":[{"TYPE":"E","MESSAGE":"МВЗ не найдено в КСУИТ","ROW":1}],"isSuccessful":true,"message":"OK","success":true,"error":null,"status":200}
