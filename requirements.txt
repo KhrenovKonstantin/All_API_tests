@@ -1,0 +1,7 @@
+requests
+pytest
+allure-pytest
+python-docx
+Pillow
+cyrtranslit
+selenium
